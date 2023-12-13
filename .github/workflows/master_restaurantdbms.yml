@@ -63,4 +63,4 @@ jobs:
           app-name: 'restaurantdbms'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_301CF4BA57B44ACD995044B36D1322F3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DEF1E67DC3E49DC9C7C7BA283B3C8B5 }}
